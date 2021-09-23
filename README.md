@@ -1,15 +1,15 @@
 
 Hi ❤, I'm Cássia Lima!
 
-A passionate Full Stack developer from Brasil. 
+A passionate Full Stack developer from Brazil. 
 
-🌱 I’m currently learning:  Java
+🌱 I’m currently learning:  Java in Generation Brazil.
 
-👯 I’m looking to collaborate on: projects involving Java
+👯 I’m looking to collaborate on: projects involving Java.
 
-📫 How to reach me: cassiadosreislima@gmail.com
+📫 How to reach me: cassiadosreislima@gmail.com .
 
-👨‍💻 All of my projects are available at: https://github.com/cassiarlima
+👨‍💻 All of my projects are available at: https://github.com/cassiarlima .
 
 <div align="center">
   <a href="https://github.com/cassiarlima">
