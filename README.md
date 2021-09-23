@@ -1,6 +1,6 @@
 ## Hi ❤, I'm Cássia Lima!
 
-A passionate Full Stack developer from Brazil. 
+A passionate Full Stack developer from Brazil 
 
 🌱 I’m currently learning:  Java at Bootcamp Generation Brazil.
 
