@@ -1,5 +1,4 @@
-
-Hi ❤, I'm Cássia Lima!
+## Hi ❤, I'm Cássia Lima!
 
 A passionate Full Stack developer from Brazil. 
 
