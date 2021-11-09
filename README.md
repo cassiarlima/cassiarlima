@@ -2,9 +2,9 @@
 
 A passionate Full Stack developer from Brazil 
 
-🌱 I’m currently learning:  Java at Bootcamp Generation Brazil.
+🌱 I’m currently learning:  Java at Generation Brazil.
 
-📚 I'm learning in this bootcamp:  Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | HTML 5️⃣ | CSS3 3️⃣ |
+📚 I'm learning:  Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | HTML 5️⃣ | CSS3 3️⃣ |
 
 👯 I’m looking to collaborate on: projects involving Java.
 
