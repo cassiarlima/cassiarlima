@@ -2,7 +2,7 @@
 
 A passionate Full Stack developer from Brazil 
 
-🌱 I’m currently learning:  Java at Generation Brazil.
+🌱 I’m currently learning:  Java 
 
 📚 I'm learning:  Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | HTML 5️⃣ | CSS3 3️⃣ |
 
