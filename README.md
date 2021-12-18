@@ -2,8 +2,6 @@
 
 A passionate Full Stack developer from Brazil 
 
-🌱 I’m currently learning:  Java 
-
 📚 I'm learning:  Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | HTML 5️⃣ | CSS3 3️⃣ |
 
 👯 I’m looking to collaborate on: projects involving Java.
