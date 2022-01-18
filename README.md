@@ -25,8 +25,7 @@ A passionate Full Stack developer from Brazil
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_PwJqjMfq.png">
-    </div>
+   </div>
 
 
  ##
